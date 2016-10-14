@@ -8,8 +8,8 @@
   lg = log --pretty=format:'%Cred%h%Creset -%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
   df = "!f() { [ \"$GIT_PREFIX\" != \"\" ] && cd "$GIT_PREFIX"; git diff --color $@ | diff-so-fancy | less --tabs=4 -RFX; }; f"
 [user]
-  email = dccmx@dccmx.com
-  name = dccmx
+  email = ccl0326@163.com
+  name = clchen
 [color]
   ui = true
 [push]
