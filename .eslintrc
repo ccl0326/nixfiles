@@ -8,8 +8,8 @@
     "node": true
   },
   "globals": {
-    "$": false
-    "_": false,
+    "$": false,
+    "_": false
   },
   "ecmaFeatures": {
     "arrowFunctions": true,
